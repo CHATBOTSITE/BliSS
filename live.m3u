@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="UK: 3E SD" tvg-name="3E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/3e_Ireland_2017.png" group-title="Irish Channels",3E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ripperiptv.stablehq.co.uk:4745/live/Anything/123456/1237.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+
+#EXTINF:-1 tvg-id="UK: 4SEVEN SD" tvg-name="4Seven SD" tvg-logo="http://fabiptv.com/getlogos/logos/4Seven.png" group-title="UK Entertainment",4Seven SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ripperiptv.stablehq.co.uk:4745/live/Anything/birdy/1238.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+
+#EXTINF:-1 tvg-id="UK: 5 STAR SD" tvg-name="5 Star SD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/33/5_Star_logo_2016.png/revision/latest?cb=20160217080759" group-title="UK Entertainment",5 Star SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ripperiptv.stablehq.co.uk:4745/live/Birdy/123456/1239.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+
+#EXTINF:-1 tvg-id="5 USA" tvg-name="5USA" tvg-logo="http://fabiptv.com/getlogos/logos/5USA.jpg" group-title="UK Entertainment",5USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ripperiptv.stablehq.co.uk:4745/live/Anything/123456/12713.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+
+#EXTINF:-1 tvg-id="USA/CA: A&E TV HD" tvg-name="A&E HD" tvg-logo="http://fabiptv.com/getlogos/logos/A&E.png" group-title="US/CA Entertainment",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ripperiptv.stablehq.co.uk:4745/live/Anything/123456/1398.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+
+#EXTINF:-1 tvg-id="USA/CA: ABC HD" tvg-name="ABC HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/a/a2/Abc-logo_120510210044.svg/revision/latest/scale-to-width-down/185?cb=20160713051953" group-title="US/CA Entertainment",ABC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ripperiptv.stablehq.co.uk:4745/live/Anything/123456/1396.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+
+#EXTINF:-1 tvg-id="USA/CA: ABC NEWS SD" tvg-name="ABC News US HD" tvg-logo="https://lh4.ggpht.com/VLAqGQWkvx6lt3UdBYuUjMGq3_lB2GzXi_MoKdZQKLLy1KzKlqrvfZ-d9rU-deudBA=w300" group-title="US/CA News",ABC News US HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ripperiptv.stablehq.co.uk:4745/live/Anything/123456/8578.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+
+#EXTINF:-1 tvg-id="USA/CA: ABC Spark SD" tvg-name="ABC Spark HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6f/Logo_ABC_Spark.jpg" group-title="US/CA Entertainment",ABC Spark HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ripperiptv.stablehq.co.uk:4745/live/Anything/123456/8502.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+
+#EXTINF:-1 tvg-id="UK: AMC SD" tvg-name="AMC SD" tvg-logo="http://fabiptv.com/getlogos/logos/AMC.png" group-title="UK Entertainment",AMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ripperiptv.stablehq.co.uk:4745/live/Anything/123456/1241.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+
+#EXTINF:-1 tvg-id="USA/CA: AMC HD" tvg-name="AMC US HD" tvg-logo="https://csa.dishnetwork.com/images/logos/amchd.png" group-title="US/CA Entertainment",AMC US HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ripperiptv.stablehq.co.uk:4745/live/Anything/123456/14988.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Absolute 80's" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fabiptv.com/getlogos/logos/Absolute_80s.jpg" group-title="Radio Stations",Absolute 80's&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ripperiptv.stablehq.co.uk:4745/live/Anything/123456/14615.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Absolute Classic Rock" tvg-logo="http://fabiptv.com/getlogos/logos/Absolute_Classic_Rock.jpg" group-title="Radio Stations",Absolute Classic Rock
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ripperiptv.stablehq.co.uk:4745/live/Anything/123456/14588.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Absolute Radio" tvg-logo="http://fabiptv.com/getlogos/logos/Absolute_Radio.jpg" group-title="Radio Stations",Absolute Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ripperiptv.stablehq.co.uk:4745/live/Anything/123456/14589.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+
+#EXTINF:-1 tvg-id="UK: AL JAZEERA ENGLISH SD" tvg-name="Al Jazeera English SD" tvg-logo="http://fabiptv.com/getlogos/logos/Al_Jazeera.png" group-title="UK News",Al Jazeera English SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ripperiptv.stablehq.co.uk:4745/live/Anything/123456/1745.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
